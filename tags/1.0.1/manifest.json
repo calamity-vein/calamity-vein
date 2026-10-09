@@ -1,0 +1,20 @@
+{
+  "version": "1.0.1",
+  "built_at": "2026-10-09T17:49:37Z",
+  "files": [
+    {
+      "platform": "windows",
+      "name": "CalamityVein-1.0.1-windows.zip",
+      "size": 140847769,
+      "sha256": "c7845d07403bb4241dabb4cfc6a0b77bbf0bc53260bad09af7b27533c08cf8a0",
+      "url": "https://github.com/calamity-vein/calamity-vein/releases/download/v1.0.1/CalamityVein-1.0.1-windows.zip"
+    },
+    {
+      "platform": "macos",
+      "name": "CalamityVein-1.0.1-mac.zip",
+      "size": 164114754,
+      "sha256": "4ab8ea721cb34324e4970bc6290bfd092def08f24d757294bc36398c1f288b51",
+      "url": "https://github.com/calamity-vein/calamity-vein/releases/download/v1.0.1/CalamityVein-1.0.1-mac.zip"
+    }
+  ]
+}
