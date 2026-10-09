@@ -1,0 +1,11 @@
+# repo นี้เป็น public — เก็บแค่ README.md + manifest.json ของแต่ละรุ่น
+# ตัวเกมเป็นไฟล์แนบของ GitHub Release (git ไม่รับไฟล์ > 100 MB) · สเปก docs/patch-system.html#release-repo
+tags/*/win/
+tags/*/mac/
+tags/.building-*/
+*.exe
+*.pck
+*.zip
+*.dmg
+*.app
+.DS_Store
